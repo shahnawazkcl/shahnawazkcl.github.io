@@ -7,3 +7,7 @@ tags: deeplearning
 
 ---
 # Setup your system for Deeplearning
+
+In this blog post i am going to take you through steps involved in setting up your Ubuntu20.04 system for running Deep Learning models.
+
+.....be patient populating soon....
