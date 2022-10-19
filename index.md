@@ -5,6 +5,9 @@ I'm glad you are here. I plan to talk about many different things in the series 
     🌱 My lifelong goal is to keep learning and making it easy for others to understand as that was not for me.  
     📫 You can reach me on twitter @shahnawaz_mbd.  
     ⚡️ Fun fact: I like playing Cricket, football and Chess.
-    
-    
+
+_I write whenever i get time. So keep coming back...As Learning is **MARATHON** not a **SPRINT**!!_
+
 __Hope you are going to enjoy reading !__
+
+Checkout my [gist](https://gist.github.com/shahnawazkcl) for fun small scripts. 
