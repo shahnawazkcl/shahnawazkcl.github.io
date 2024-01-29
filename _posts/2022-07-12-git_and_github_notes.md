@@ -42,7 +42,7 @@ Simple tasks to get you started with some basic Git commands.
 * **task `commit`:** Once sure to commit the changes type `git commit -m 'some msg to the commit -m "some description"`.
 * **Task `push`:** once done with modification and commits just make it **public** on GitHub using `git push origin master`.
 
-<center><h2>Phew! AGAIN ... "Take a Break..."</h2></center>
+<center><h2>Take a Break...</h2></center>
 
 ### Starting with a local folder/directory
 * **Task:** create a folder named '_demo_2_' and add `readme.md` file again write the gut.
@@ -73,7 +73,7 @@ What is **Staging**: it simply means to add the modified file or changes using `
 * **Task `PR`:** after creating and merging PR online on GitHub in terminal type `git pull`. to pull all the changes in the `master` branch locally.
 * **Task `delete (-d)`:** after pulling all the changes in the `master` branch type `git branch -d namebranch` to delete that feature branch we don't need anymore.  
 
-<center><h2>Phew..... that was intense __Take a Break__. </h2></center>
+<center><h2>that was intense __Take a Break__. </h2></center>
 
 
 ### What are merge conflicts and how to deal with them.
