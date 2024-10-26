@@ -2,10 +2,10 @@
 layout: post
 title: Let's think creative
 description: simple guide tosetup ubuntu system for deep learning with cuda.
-date: 2022-07-06
+date: 2024-10-26
 tags: deeplearning
 
 ---
 # How to be a creative thinker
 
-Coming Soon....
+Comming Soon....
