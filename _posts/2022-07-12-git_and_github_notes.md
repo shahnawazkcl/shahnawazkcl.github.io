@@ -16,7 +16,7 @@ So, the first questions is
 > **What is Git !:** It's free an Open Source version control system. That manges and stores any changes made to the document/code through its developments.  
 > **Git** is the tool and **GitHub** is a website where you host all of your repositories (in short _repo_. aka Project folders).  
 
-<center><h2>Phew....! </h2></center>
+<center><h2>Break....! </h2></center>
 
 Now some **Git commands** that one uses to interact all the time, can be typed into your terminal or git bash.
 * **clone**: Brings a _repos_ that is hosted on Github for instance on to yoor local machine.
@@ -73,7 +73,7 @@ What is **Staging**: it simply means to add the modified file or changes using `
 * **Task `PR`:** after creating and merging PR online on GitHub in terminal type `git pull`. to pull all the changes in the `master` branch locally.
 * **Task `delete (-d)`:** after pulling all the changes in the `master` branch type `git branch -d namebranch` to delete that feature branch we don't need anymore.  
 
-<center><h2>that was intense __Take a Break__. </h2></center>
+<center><h2> __Take a Break__. </h2></center>
 
 
 ### What are merge conflicts and how to deal with them.
